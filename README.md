@@ -1,13 +1,6 @@
 # geoLocator
 
 Code for [Cloud Functions](https://cloud.google.com/functions/) to geo locate a user.
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Example output [(Link)](https://us-central1-private-social-media.cloudfunctions.net/locate)
 
