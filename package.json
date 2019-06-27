@@ -1,0 +1,9 @@
+{
+  "name": "geo-locator",
+  "version": "0.0.1",
+    "dependencies": {
+      "express": "^4.17.1",
+      "express-ip": "^1.0.3",
+      "cors":"^2.8.5"
+  }
+}
