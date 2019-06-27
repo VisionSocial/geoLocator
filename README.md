@@ -4,7 +4,7 @@ Code for [Cloud Functions](https://cloud.google.com/functions/) to geo locate a 
 
 ## Example output [(Link)](https://us-central1-private-social-media.cloudfunctions.net/locate)
 
-```json
+```javascript
 {
   "range": [
     2839088128,
